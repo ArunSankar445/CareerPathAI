@@ -1,0 +1,4 @@
+Generate 5–10 mock interview questions based on the missing skills for the role below.
+
+Role: [ROLE]
+Skills: [SKILLS]
